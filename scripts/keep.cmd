@@ -1,0 +1,1 @@
+php %~dp0\keep_cookie.php > %~dp0\rsp

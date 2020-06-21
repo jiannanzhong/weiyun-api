@@ -1,0 +1,1 @@
+move cookie_data.php.sample to cookie_data.php

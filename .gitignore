@@ -1,0 +1,6 @@
+/vendor/
+/logs/*
+!/logs/README.md
+.idea/**/*
+sqlite-data/**/*.sqlite
+scripts/cookie_data.php
